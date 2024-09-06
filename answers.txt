@@ -7,6 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
    Answer: Statistics, to perform a linear regression on a dataset
 
-Q3: What is the difference between merging and rebasing?
+Q3: What skills do you hope to improve during this course?
 
-Answer: merging saves all previous history of the branch while rebasing makes the branch the new main
+Answer: being comfortable with Git and learning lots about data science
