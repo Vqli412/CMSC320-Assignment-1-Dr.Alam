@@ -1,6 +1,12 @@
- Q2: What field could data science be applied to? Give and Example and how it might help
-
-   Answer: Statistics, to perform a regression on a dataset
+ 
 Q1: Why might be consider using git?
 
-   Answer: Very useful
+   Answer: Very useful when working with multiple people 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+   Answer: Statistics, to perform a linear regression on a dataset
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: merging saves all previous history of the branch while rebasing makes the branch the new main
